@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393689127390",
+    "project_id": "pushnotification-c4f53",
+    "storage_bucket": "pushnotification-c4f53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393689127390:android:614a60a151a85fd175a54f",
+        "android_client_info": {
+          "package_name": "com.example.lipstick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAypOrhB7XGhWMpIUitKVuPciCHC0dxrjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
